@@ -13,3 +13,8 @@ jupiter server
 ```
 
 3. Connect to the URL
+
+## Why use a search tool?
+Agents need more context to have accurate and up to date information
+
+![alt text](extras/images/search_tool.png)
